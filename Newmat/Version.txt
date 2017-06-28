@@ -1,0 +1,2 @@
+Newmat10 - January, 2002
+Some modifications by Rochus due to compiler errors.
